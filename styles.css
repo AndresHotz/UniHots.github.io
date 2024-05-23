@@ -3,12 +3,13 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #d3d3d3; /* Fondo gris mate */
 }
 
 header {
     height: 150px;
-    background-color: #4169e1; /* Cambiado a azul rey */
-    color: #fff;
+    background-color: #ffffff; /* Cambiado a blanco */
+    color: #808080;
     text-align: center;
     padding: 1rem;
 }
