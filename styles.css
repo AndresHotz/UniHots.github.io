@@ -20,6 +20,15 @@ main {
     justify-content: center;
 }
 
+.catalog .product {
+    background-color: #ffffff; /* Fondo blanco para el cuadro de producto */
+    padding: 1rem; /* Espacio interno alrededor del contenido */
+    margin: 1rem; /* Espacio externo alrededor del cuadro */
+    border-radius: 8px; /* Bordes redondeados, opcional */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra ligera, opcional */
+    text-align: center; /* Centrar el texto dentro del cuadro */
+}
+
 .catalog {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
