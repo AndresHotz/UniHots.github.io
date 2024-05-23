@@ -8,8 +8,8 @@ body {
 
 header {
     height: 150px;
-    background-color: #ffffff; /* Cambiado a blanco */
-    color: #808080;
+    background-color: #ffffff; /* Fondo blanco */
+    color: #808080; /* Letras en color gris */
     text-align: center;
     padding: 1rem;
 }
